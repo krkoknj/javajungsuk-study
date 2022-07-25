@@ -1,5 +1,3 @@
-package Ex_11_pack;
-
 import java.util.*;
 
 public class Ex11_32 {

@@ -1,5 +1,3 @@
-package Ex_11_pack;
-
 import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Queue;

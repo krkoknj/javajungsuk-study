@@ -1,5 +1,3 @@
-package Ex_11_pack;
-
 import java.util.Arrays;
 import java.util.Comparator;
 

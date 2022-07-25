@@ -1,9 +1,4 @@
-package Ex_11_pack;
-
-import day0621_movie.User;
-
 import java.util.ArrayList;
-import java.util.List;
 
 class UserTest {
     String username;

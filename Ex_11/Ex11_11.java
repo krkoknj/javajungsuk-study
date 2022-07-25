@@ -1,6 +1,3 @@
-package Ex_11_pack;
-
-
 import java.util.HashSet;
 import java.util.Objects;
 
